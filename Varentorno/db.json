@@ -1,0 +1,171 @@
+{
+  "profesores": [
+    {
+      "nombre": "Jhonathan",
+      "apellido": "Giraldo",
+      "asigantura": [
+        {
+          "nombre": "HTML"
+        },
+        {
+          "nombre": "Css"
+        },
+        {
+          "nombre": "Javascript"
+        }
+      ],
+      "id": "0c5a"
+    },
+    {
+      "nombre": "Devrier",
+      "apellido": "Gonzales",
+      "asigantura": [
+        {
+          "nombre": "HTML"
+        },
+        {
+          "nombre": "React"
+        },
+        {
+          "nombre": "nodejs"
+        }
+      ],
+      "id": "6cb9"
+    },
+    {
+      "id": "8562",
+      "nombre": "Samir",
+      "apellido": "Perez",
+      "asigantura": [
+        {
+          "nombre": "Angular"
+        },
+        {
+          "nombre": "Laravel"
+        },
+        {
+          "nombre": "Javascript"
+        },
+        {
+          "nombre": "IA"
+        }
+      ]
+    }
+  ],
+  "aprendiz": [
+    {
+      "nombre": "Juan Felipe",
+      "apellido": "Gutierrez",
+      "promedio": "7.5",
+      "id": "0473"
+    },
+    {
+      "nombre": "Hector",
+      "apellido": "Contreras",
+      "promedio": "8.5",
+      "id": "a203"
+    },
+    {
+      "nombre": "Juliana",
+      "apellido": "Ceron",
+      "promedio": "8.2",
+      "id": "33ad"
+    },
+    {
+      "nombre": "Mitchell",
+      "apellido": "Gomez",
+      "promedio": "5.3"
+      
+    },
+    {
+      "nombre": "Nicolas",
+      "apellido": "Gil",
+      "promedio": "7.6"
+    },
+    {
+        "nombre": "Santiago",
+        "apellido": "Gutierrez",
+        "promedio": "9.3"
+      },
+      {
+        "nombre": "Daniel",
+        "apellido": "Trespalacios",
+        "promedio": "8.5"        
+      },
+      {
+        "nombre": "Alejandro",
+        "apellido": "Ho",
+        "promedio": "6.4"       
+      },
+      {
+        "nombre": "Jessica",
+        "apellido": "Gomez",
+        "promedio": "7.4"
+        
+      },
+      {
+        "nombre": "Paula",
+        "apellido": "Jaramillo",
+        "promedio": "8.6"
+      }
+  ],
+  "boot": [
+    {
+      "nombre": "Fullstack",
+      "descripcion": "Javascript",
+      "duracion": "120 horas",
+      "nivel": "Basico",
+      "id": "be0b"
+    },
+    {
+      "nombre": "Fullstack",
+      "descripcion": "Javascript",
+      "duracion": "120 horas",
+      "nivel": "Intermedio",
+      "id": "6901"
+    },
+    {
+      "nombre": "Fullstack",
+      "descripcion": "Javascript",
+      "duracion": "120 horas",
+      "nivel": "Avanzado",
+      "id": "158b"
+    },
+    {
+        "nombre": "Inteligencia Artificial",
+        "descripcion": "Desarrollo con IA",
+        "duracion": "120 horas",
+        "nivel": "Basico"
+      },
+      {
+        "nombre": "Inteligencia Artificial",
+        "descripcion": "Desarrollo con IA",
+        "duracion": "120 horas",
+        "nivel": "Intermedio"
+      },
+      {
+        "nombre": "Inteligencia Artificial",
+        "descripcion": "Desarrollo con IA",
+        "duracion": "120 horas",
+        "nivel": "Avanzado"
+      },
+      {
+        "nombre": "Analisis de Datos",
+        "descripcion": "BigData",
+        "duracion": "120 horas",
+        "nivel": "Basico"
+      },
+      {
+        "nombre": "Analisis de Datos",
+        "descripcion": "BigData",
+        "duracion": "120 horas",
+        "nivel": "Intermedio"
+      },
+      {
+        "nombre": "Analisis de Datos",
+        "descripcion": "BigData",
+        "duracion": "120 horas",
+        "nivel": "Avanzado"
+      }
+  ]
+}
