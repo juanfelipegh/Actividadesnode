@@ -1,0 +1,21 @@
+{
+  "name": "tareas1",
+  "version": "0.0.1",
+  "description": "Actividad Importar",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "author": "Juan Felipe Gutierrez",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "readline": "^1.3.0",
+    "redline": "^1.0.1"
+  }
+}
