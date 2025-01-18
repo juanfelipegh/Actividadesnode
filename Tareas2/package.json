@@ -1,0 +1,20 @@
+{
+  "name": "tareas2",
+  "version": "0.0.2",
+  "description": "Actividad de importacion version 2",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js",
+    "dev": "nodemon src/inde.js "
+  },
+  "author": "Juan Felipe Gutierrez",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
